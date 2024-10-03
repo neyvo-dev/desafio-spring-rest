@@ -182,7 +182,6 @@ public class ProdutoController {
   @ResponseStatus(HttpStatus.OK)
   @DeleteMapping("/{id}")
   public void removerPorId(@PathVariable Long id) {
-
     produtoService.removePorId(id);
   }
 

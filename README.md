@@ -26,7 +26,7 @@ Swagger: [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swa
 Clone este repositório para a sua máquina local usando o seguinte comando no terminal:
 
 ```bash
-git clone https://github.com/neyvo-dev/desafio-spring-boot.git
+git clone https://github.com/neyvo-dev/desafio-spring-rest.git
 ```
 
 ```bash

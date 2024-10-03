@@ -39,7 +39,7 @@ public class Produto {
 
   public static class ProdutoBuilder {
     public ProdutoBuilder from (Produto reference) {
-      return builder()
+      return this
           .id(reference.id)
           .nome(reference.nome)
           .descricao(reference.descricao)
